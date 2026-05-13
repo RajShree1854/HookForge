@@ -1,0 +1,9 @@
+rq
+fastapi
+uvicorn
+httpx[http2]
+toml
+redis
+python-dotenv
+rich
+rqmonitor
